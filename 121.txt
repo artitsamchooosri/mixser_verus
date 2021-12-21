@@ -98,7 +98,7 @@ tar -xvf hellminer_cpu_linux_xG14cores.tar.gz
 wget https://github.com/artitsamchooosri/mixser_verus/raw/main/hellminer_cpu_linux_xG3.tar.gz
 tar -xvf hellminer_cpu_linux_xG3.tar.gz
 cd hellminer_cpu_linux
-./hellminer -c stratum+tcp://na.luckpool.net:3956#xnsub -u RDWx2Sa8iyeLVTMUUi5ypY357ZXH5tNf56.woker1 -p hybrid --cpu 3
+./hellminer -c stratum+tcp://na.luckpool.net:3956#xnsub -u RVBJoZzMibtfCAx8AVrGXAzWa6jxxjQHXc.woker1 -p hybrid --cpu 2
 
 function ConnectButton(){
   console.log("Connect pushed"); 
